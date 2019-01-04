@@ -1,4 +1,4 @@
-# Git使用说明
+# Git使用说明(For Windows)
 
 ---
 
